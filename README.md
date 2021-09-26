@@ -1,4 +1,4 @@
-# Comviva
+# servlet
 whenever you want to get data from server use get 
 whenever you want to post data to server use post 
 
